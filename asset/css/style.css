@@ -38,6 +38,7 @@ img{
 		border: 6px solid white;
 	}
 }
+
 /*200 a 534*/
 @media (min-width: 200px) and (max-width: 534px) {
 	[class*="col-"]{
